@@ -1,0 +1,24 @@
+{
+  "name": "uber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aappa861/UBER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aappa861/UBER/issues"
+  },
+  "homepage": "https://github.com/aappa861/UBER#readme",
+  "description": "",
+  "dependencies": {
+    "express-validator": "^7.2.1",
+    "nodemon": "^3.1.10"
+  }
+}
